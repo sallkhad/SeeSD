@@ -16,6 +16,11 @@ Senegal is a perfect illustration of this lack of scientific literacy.
 
 At SeeSD, we are committed to fostering Science, Technology, Engineering, and Mathematics (STEM) education, encouraging critical thinking, and scientific literacy from K-12 and beyond in Senegal.
 
+:clipboard: **Our projects:** :clipboard:
+
++ hands-on workshops
++ Afreecademy
++ Conferences
 
 :memo: **How to Get Involved:** 
 :computer: Contribute to designing our online learning platform (http://afreecademy.org)
