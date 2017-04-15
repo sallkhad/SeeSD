@@ -18,9 +18,9 @@ At SeeSD, we are committed to fostering Science, Technology, Engineering, and Ma
 
 :clipboard: **Our projects:** :clipboard:
 
-+ hands-on workshops
-+ Afreecademy
-+ Conferences
++ hands-on workshops [**here**](https://www.seesd.org/hands-on)
++ Afreecademy [**here**](https://www.seesd.org/online-plateform)
++ Conferences [**here**](https://www.seesd.org/conference)
 
 :memo: **How to Get Involved:** 
 :computer: Contribute to designing our online learning platform (http://afreecademy.org)
