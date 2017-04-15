@@ -2,12 +2,7 @@
 Change over to github projects?
 
 ## Project: SeeSD (Science Education Exchange for Sustainable Development)
-# Problems
-The colonial history of Africa has led to a serious lack of scientific literacy amongst its citizens. 
-The consequences today are fear and skepticism towards science, with people perceiving it as foreign led and irrelevant to their lives. 
-Many africans often lack the scientific literacy to assess situations. 
-As a result, their opinions are misinformed by rhetoric and shaped by cultural mistrust.
-Senegal is a perfect illustration of this lack of scientific literacy.
+
 # Our Mission  
 At SeeSD, we are committed to fostering Science, Technology, Engineering, and Mathematics (STEM) education, encouraging critical thinking, and scientific literacy from K-12 and beyond in Senegal.
 
