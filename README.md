@@ -23,4 +23,5 @@ Contribute to creating our bimonthly newsletter
 Help us organize our first conference [SeeSD.Senegal@gmail.com]
 Contribute to other online resources [Link to projects that can be conributed to]
 
-Check out our [roadmap.md] to see how you can help.
+This is [roadmap.md] whatare planning to do for the year of 2016. 
+Check it out and let us know if you want to help 
