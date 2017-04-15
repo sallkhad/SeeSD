@@ -20,7 +20,7 @@ At SeeSD, we are committed to fostering Science, Technology, Engineering, and Ma
 :memo: **How to Get Involved:** :computer:
 Contribute to help us design our online platform Afreecademy. 
 Contribute to creating our bimonthly newsletter 
-Help us organize our first conference [Link to form or email]
+Help us organize our first conference [SeeSD.Senegal@gmail.com]
 Contribute to other online resources [Link to projects that can be conributed to]
 
 
