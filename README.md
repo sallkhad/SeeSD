@@ -20,9 +20,10 @@ At SeeSD, we are committed to fostering Science, Technology, Engineering, and Ma
 :memo: **How to Get Involved:** 
 :computer: Contribute to designing our online learning platform (http://afreecademy.org)
 :book: Contribute to designing online contents 
-:newsletter: Contribute to creating our bimonthly newsletter 
-:human: Help us organize our first conference [SeeSD.Senegal@gmail.com]
+:newspaper: Contribute to creating our bimonthly newsletter 
+:relieved: Help us organize our first conference 
 
+If you want to contribute to any these projects, contact us at [SeeSD.Senegal@gmail.com]
 
 This is [roadmap.md] whatare planning to do for the year of 2016. 
 Check it out and let us know if you want to help 
