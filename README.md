@@ -8,7 +8,7 @@ This GitHub Repo is our place to organize our project website content and other 
 
 :clipboard: **Our Problems:** :clipboard:
 
-The colonial history of Africa has led to a serious lack of scientific literacy amongst its citizens.The consequences today are fear and skepticism towards science, with people perceiving it as foreign led and irrelevant to their lives. Many africans often lack the scientific literacy to assess situations.As a result, their opinions are misinformed by rhetoric and shaped by cultural mistrust.
+The colonial history of Africa has led to a serious lack of scientific literacy amongst its citizens.The consequences today are fear and skepticism towards science, with people perceiving it as foreign led and irrelevant to their lives. Many africans often lack the scientific literacy to assess situations. As a result, their opinions are misinformed by rhetoric and shaped by cultural mistrust.
 Senegal is a perfect illustration of this lack of scientific literacy.
 
 
