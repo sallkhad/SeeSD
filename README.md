@@ -21,7 +21,7 @@ At SeeSD, we are committed to fostering Science, Technology, Engineering, and Ma
 :computer: Contribute to designing our online learning platform (http://afreecademy.org)
 :book: Contribute to designing online contents 
 :newsletter: Contribute to creating our bimonthly newsletter 
-:people: Help us organize our first conference [SeeSD.Senegal@gmail.com]
+:human: Help us organize our first conference [SeeSD.Senegal@gmail.com]
 
 
 This is [roadmap.md] whatare planning to do for the year of 2016. 
