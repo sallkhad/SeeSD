@@ -9,9 +9,9 @@ More information about [Afreecademy](https://www.seesd.org/online-plateform)
 
 We are currently designing the MOOC platform and need help from more developpers. 
 
-We will provide soon more information about how to help us write code and develop content.
-
-
 Coming soon. 
 
+We are setting this up and will need more collaborators. 
+
+If you are a developer and can help, email us SeeSDSenegal@gmail.com
 
