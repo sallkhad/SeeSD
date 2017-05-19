@@ -7,3 +7,13 @@ This is a blog post written by SPARC (the Scholarly Publishing and Academic Reso
 
 More information about [Afreecademy](https://www.seesd.org/online-plateform)
 
+We are currently designing the MOOC platform and need help from more developpers. 
+
+This is an open project. 
+
+Coming soon. 
+
+We will share more information about the code. 
+
+
+We are also developing content for the MOOC platform. 
