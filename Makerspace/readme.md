@@ -1,5 +1,8 @@
-Welcome to Ubbil SeeSD Makerspace. Ubbil SeeSD is an open science and open education and open innovation space. 
+Welcome to Ubbil SeeSD Makerspace. 
 ============
+
+# Ubbil SeeSD is an open science and open education and open innovation space. 
+
 This year, we are supported by the Clinton Foundation, Oregon State University and by our kind donors. 
 
 We come together to do hands-on learning, share skills, ask questions, and create technologies. 
