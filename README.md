@@ -66,8 +66,6 @@ L’organisation d’un festival/conférence annuel pour promouvoir l’échange
 :newspaper: Contribute to creating our bimonthly newsletter 
 :relieved: Aidez nous à organiser le DefCo Dakar science festival et conférence 
 
-Si vous voulez contribuer, contactez nous [SeeSD.Senegal@gmail.com]
-
 Si vous avez voulez contribuer ou avez des suggestions ou des remarques par rapport à notre projet, contactez-nous par email [SeeSD.Senegal@gmail.com].
 
 
