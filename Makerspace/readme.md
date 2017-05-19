@@ -30,7 +30,7 @@ If you are already an innovator just show up. We have co-working events to work 
 We are mostly young people who want to make a change in Africa. We believe scientific literacy mixed with the culture of open can get us there. 
 Some of us have PhD and have a lot experience, while others are just starting.
 
-This is our leadership team so far [Mozilla Science Lab](https://www.seesd.org/team)
+This is our leadership team so far [SeeSD](https://www.seesd.org/team)
 
 But Hey, just join us, we will train you and assist you in anyway we can because we believe the future of the continent is in your hands. 
 
