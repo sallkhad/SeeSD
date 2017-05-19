@@ -1,7 +1,7 @@
 Welcome to Ubbil SeeSD Makerspace. 
 ============
 
-## Ubbil SeeSD is an open science and open education and open innovation space. 
+## Ubbil SeeSD is an open education, open science and open innovation space. 
 
 This year, we are supported by the Clinton Foundation, Oregon State University and by our kind donors. 
 
@@ -30,8 +30,9 @@ If you are already an innovator just show up. We have co-working events to work 
 We are mostly young people who want to make a change in Africa. We believe scientific literacy mixed with the culture of open can get us there. 
 Some of us have PhD and have a lot experience, while others are just starting.
 
+This is our leadership team so far [Mozilla Science Lab](https://www.seesd.org/team)
 
-Just join us, we will train you and assist you in anyway we can because we believe the future of the continent is in your hands. 
+But Hey, just join us, we will train you and assist you in anyway we can because we believe the future of the continent is in your hands. 
 
 
 Check out the CONTRIBUTING file or the page on the site for more details.
