@@ -32,8 +32,7 @@ Some of us have PhD and have a lot experience, while others are just starting.
 
 This is our leadership team [SeeSD](https://www.seesd.org/team). We are looking for more leaders. 
 
-If you think you have what it takes to change Africa. Join us, and let share skills and work together e will train you and assist you in anyway we can because we believe the future of the continent is in your hands. 
-
+If you think you have what it takes to change Africa. Join us, and let share skills and work together. 
 
 Check out the CONTRIBUTING file or the page on the site for more details.
 
