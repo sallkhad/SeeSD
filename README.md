@@ -51,7 +51,7 @@ L'histoire coloniale de l'Afrique a conduit à de graves disparités en matière
 
  À SeeSD, notre mission est de promouvoir l’apprentissage de la science, la technique, l’ingénierie, les mathématiques, d’encourager la pensée critique, la curiosité et le plaisir de comprendre dès le plus jeune âge. 
 
-:clipboard: **Nos projecs:** :clipboard:
+:clipboard: **Nos projets:** :clipboard:
 
 + Ateliers scientifiques  [**here**](https://www.seesd.org/copy-of-hands-on)
 L’organisation d’ateliers scientifiques dans notre makerspace,à la bibliothèque de Ouakam et dans nos écoles partenaires.  
