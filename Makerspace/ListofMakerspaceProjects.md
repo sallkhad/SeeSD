@@ -4,7 +4,9 @@ List of Projects for the Maker Space
 
 ### 1.3D printing 
 
-Assemble our first 3D printer. Just a fun project to get the team going and start working together. 
+Assemble our first 3D printer. 
+
+This is a little beginner projet to get the team together and start working on one collaborative project.
 
 For me information see First 3D printer project (Coming soon). 
 
