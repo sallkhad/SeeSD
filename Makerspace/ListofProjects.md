@@ -14,7 +14,7 @@ More information is coming soon about this project.
 
 ### 3.Community Garden
 
-Establish a community garden in the community.
+Establish a community garden to grow food sustainability.
 
 More information is coming soon about this project. 
 
