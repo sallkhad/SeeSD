@@ -1,3 +1,5 @@
+👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_down:version française :fr::fr: / :point_down: french version/:fr::fr:
+
 SeeSD Volunteer Training - pedagogy and open practices 
 ============
 
