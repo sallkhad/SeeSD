@@ -31,7 +31,7 @@ If you are already a STEM professional or an innovator in Senegal, just show up.
 
 We have co-working events to work on your own projects. 
 
-### :raised_hand: Wait, who are? :smirk:
+### :raised_hand: Wait, who are you? :smirk:
 
 We are mostly young people who want to make a change in Africa.:muscle::muscle::muscle: We believe scientific literacy :microscope: books: :telescope::wrench: :computer::syringe: mixed with the culture of open can get us there. 
 Some of us have PhD and have a lot experience, while others are just starting.
