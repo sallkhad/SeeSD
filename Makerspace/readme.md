@@ -1,3 +1,5 @@
+👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_down:version française :fr::fr: / :point_down: french version/:fr::fr:
+
 Welcome to Ubbil SeeSD Makerspace. 
 ![](http://www.teenlibrariantoolbox.com/files/2015/05/bicycleaccident.gif)
 ============
@@ -45,4 +47,9 @@ This is our email, just so you know :email: SeeSD.Senegal@gmail.com. :email:
 Check out the CONTRIBUTING file or the page on the site for more details.
 
 Check out the Handbook (Coming soon Makerspace hand-book)
+
+:airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::f:fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
+
+👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_up_2:version anglaise :us::us:/ :point_up_2: English version/:us::us:
+
 
