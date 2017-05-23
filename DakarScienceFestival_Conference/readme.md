@@ -2,6 +2,7 @@
 
 DakarScienceFestival_Conference aka DefCo or just do it in wolof 
 ============
+![](http://www.isseastem.com/uploads/2/0/3/2/20329227/195104127_orig.gif)
 
 DefCo is a three days STEM "open"festival that will take place every year in Dakar, Senegal. Our first festival will be planned in summer 2018. 
 
@@ -17,7 +18,7 @@ email us at :email: SeeSD.Senegal@gmail.com :email:
 
 DakarScienceFestival_Conference aka DefCo or just do it in wolof 
 ============
-
+![](http://www.isseastem.com/uploads/2/0/3/2/20329227/195104127_orig.gif)
 DefCo est un festival de la science et de l'open qui sera organisée chaque année à Dakar. Notre premier festival sera organisé durant l'été 2018.  
 
 Pour plus d'informations, revenez bientôt. 
