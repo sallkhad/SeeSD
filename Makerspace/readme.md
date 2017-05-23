@@ -1,4 +1,5 @@
 Welcome to Ubbil SeeSD Makerspace. 
+![](http://www.teenlibrariantoolbox.com/files/2015/05/bicycleaccident.gif)
 ============
 
 ## Ubbil SeeSD is an open education, open science and open innovation space. 
@@ -7,9 +8,9 @@ This year, we are supported by the Clinton Foundation, Oregon State University a
 
 We come together to do hands-on learning, share skills, ask questions, and create technologies. 
 
-We believe anyone can become a STEM professional and an innovator. Our goal is to help people start from scratch. 
+We believe anyone can become a STEM professional and an innovator. 
 
-### Wait, what d you guys teach in the makerspace?
+### :confused: :confused: What do you guys teach in the makerspace? :confused:
 
 We have run hands-on workshops related to Biology, Chemistry, Physics, Math, The environment, Climate change, coding, electronics, 3D printing. 
 
