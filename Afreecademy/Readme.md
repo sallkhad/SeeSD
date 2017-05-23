@@ -15,7 +15,7 @@ Coming soon.
 
 We are setting this up and will need more :computer:collaborators:computer:. 
 
-If you are a :computer:developer:computer: and can help,or would like to have more information please email us SeeSD.Senegal@gmail.com
+If you are a :computer:developer:computer: and can help,or would like to have more information please email us :email: SeeSD.Senegal@gmail.com :email:
 
 :airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::f:fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
 
@@ -33,4 +33,4 @@ Nous sommes entrain de :computer:développer:computer: la plateforme et nous avo
 
 Revenez bientôt, nous sommes entrain de nous organiser pour pouvoir accueillir plus de :computer:collaborateurs:computer:. 
  
-Si vous êtes un développeur et que vous voulez aider, envoyez nous un email  SeeSD.Senegal@gmail.com
+Si vous êtes un développeur et que vous voulez aider, envoyez nous un email :email:SeeSD.Senegal@gmail.com :email:
