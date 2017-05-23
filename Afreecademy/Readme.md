@@ -1,12 +1,11 @@
 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_down:version française :fr::fr: / :point_down: french version/:fr::fr:
 
+Welcome to Afreecademy - African MOOC platform with free content available in local languages
+============
 
 ![](https://cdn0.vox-cdn.com/thumbor/t7nbkV1BjrAO3k0FVN9WAWg6M2E=/2800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3397248/GIF3_1200x675_v2.0.gif)
 
-Afreecademy - African MOOC platform with free content available in local languages
-============
-
-Welcome to [Afreecademy](http://afreecademy.org). :earth_africa:Afreecademy:earth_africa: is a MOOC platform under development (We need help help for web development). Through Afreecademy, we will offer culturally relevant content that are available in local languages. 
+[Afreecademy](http://afreecademy.org). :earth_africa:Afreecademy:earth_africa: is a MOOC platform under development (We need help help for web development). Through Afreecademy, we will offer culturally relevant content that are available in local languages. 
 
 This is a blog post written by SPARC (the Scholarly Publishing and Academic Resources Coalition) about [Afreecademy](http://www.opportunitiesforafricans.com/2016-opencon-conference-for-studentearly-career-professionals-washington-dc-usa-fully-funded-scholarships-available/):earth_africa::earth_africa:
 
@@ -24,12 +23,12 @@ If you are a :computer:developer:computer: and can help,or would like to have mo
 
 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_up_2:version anglaise :us::us:/ :point_up_2: English version/:us::us:
 
-![](https://cdn0.vox-cdn.com/thumbor/8m77shPmLjOFwQ2jGMg4bOk4eyE=/2800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3397278/GIF2_1200x675_v2.0.gif)
-
-Afreecademy - Formation en ligne à l'africaine ouverte à tous. Contenu disponible dans certaines langues africaines. :earth_africa::earth_africa: 
+Bienvenue à Afreecademy - Formation en ligne à l'africaine ouverte à tous. Contenu disponible dans certaines langues africaines. :earth_africa::earth_africa: 
 ============
 
-Bienvenue à [Afreecademy](http://afreecademy.org). Afreecademy est une formation en ligne et le web development est en cours (Nous avons besoin d'aide pour développer la plateforme). Afreecademy offrira des contenus culturellement pertinents et ces contenus seront disponible dans certaines langues africaines. :earth_africa::earth_africa:
+![](https://cdn0.vox-cdn.com/thumbor/8m77shPmLjOFwQ2jGMg4bOk4eyE=/2800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3397278/GIF2_1200x675_v2.0.gif)
+
+[Afreecademy](http://afreecademy.org). Afreecademy est une formation en ligne et le web development est en cours (Nous avons besoin d'aide pour développer la plateforme). Afreecademy offrira des contenus culturellement pertinents et ces contenus seront disponible dans certaines langues africaines. :earth_africa::earth_africa:
 
 Voici, un article (c'est en anglais par contre:cry:) écrit par SPARC (the Scholarly Publishing and Academic Resources Coalition) concernant [Afreecademy](http://www.opportunitiesforafricans.com/2016-opencon-conference-for-studentearly-career-professionals-washington-dc-usa-fully-funded-scholarships-available/):earth_africa:
 
