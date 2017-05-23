@@ -38,9 +38,9 @@ If you have curricula to share or something you believe will be a good add-up to
     Hands-on workshop- Give example of interaction between children and volunteers/ adults and volunteers/ scientist and volunteers
 
 ## Day 5
-How to handle a group of kids?
-Professionalism
-Ethics and code of conduct
+    How to handle a group of kids?
+    Professionalism
+    Ethics and code of conduct
 
 :airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
 
