@@ -35,7 +35,7 @@ Check it out and let us know if you want to help
 
 :airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::f:fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
 
-👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 
+👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_up_2:version anglaise :us::us:/ :point_up_2: English version/:us::us:
 
 :sparkles: [**Bienvenue à SeeSD!**](https://www.seesd.org/copy-of-home) :sparkles:
 
