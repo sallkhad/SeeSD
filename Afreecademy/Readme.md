@@ -24,10 +24,10 @@ If you are a :computer:developer:computer: and can help,or would like to have mo
 
 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_up_2:version anglaise :us::us:/ :point_up_2: English version/:us::us:
 
-
 ![](https://cdn0.vox-cdn.com/thumbor/8m77shPmLjOFwQ2jGMg4bOk4eyE=/2800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3397278/GIF2_1200x675_v2.0.gif)
 
 Afreecademy - Formation en ligne à l'africaine ouverte à tous. Contenu disponible dans certaines langues africaines. :earth_africa::earth_africa: 
+============
 
 Bienvenue à [Afreecademy](http://afreecademy.org). Afreecademy est une formation en ligne et le web development est en cours (Nous avons besoin d'aide pour développer la plateforme). Afreecademy offrira des contenus culturellement pertinents et ces contenus seront disponible dans certaines langues africaines. :earth_africa::earth_africa:
 
