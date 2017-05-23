@@ -33,7 +33,8 @@ If you want to contribute to any these projects, contact us at [SeeSD.Senegal@gm
 This is [roadmap.md] whatare planning to do for the year of 2016. 
 Check it out and let us know if you want to help 
 
-:airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
+:airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::f:fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
+
 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 
 
 :sparkles: [**Bienvenue à SeeSD!**](https://www.seesd.org/copy-of-home) :sparkles:
