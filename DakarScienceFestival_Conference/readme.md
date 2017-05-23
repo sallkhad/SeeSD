@@ -7,4 +7,4 @@ Coming soon
 
 Want to be involved in organizing it. 
 
-email us at SeeSDSenegal@gmail.com
+email us at SeeSD.Senegal@gmail.com
