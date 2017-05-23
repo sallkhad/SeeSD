@@ -36,7 +36,7 @@ If you think you have are a leader, join us, and let share skills and work toget
 
 Check out the CONTRIBUTING file or the page on the site for more details.
 
-After reading all above and still nothing makes sense, you can still email us SeeSDSenegal@gmail.com. We are always eager to get feedback or suggestions from people. 
+If you are interested in joining, you can still email us SeeSDSenegal@gmail.com. 
 
 Check out the Handbook (Coming soon Makerspace hand-book)
 
