@@ -3,7 +3,7 @@ SeeSD Volunteer Training - pedagogy and open practices
 
 Welcome to SeeSD Volunteer training. 
 
-![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwij1caC9obUAhXngVQKHR_UB9AQjRwIBw&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fneil-degrasse-tyson-VVgRNcBKp64NO&psig=AFQjCNFf9cisxqepUwlveTPm5xtfQ3OoBg&ust=1495660049313042)
+![](https://media.giphy.com/media/VVgRNcBKp64NO/giphy.gif)
 
 
 We are currently designing a one week training session for our volunteers. 
