@@ -1,4 +1,4 @@
-SeeSD Volunteer Training - Pedagogy and open practices 
+SeeSD Volunteer Training - pedagogy and open practices 
 ============
 
 Welcome to SeeSD Volunteer training. We are currently designing a one week training session for our volunteers. 
@@ -44,7 +44,7 @@ If you have curricula to share or something you believe will be a good add-up to
 
 :airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
 
-Formation des bénévoles SeeSD - La pédagogie et le concept "open". 
+Formation des bénévoles SeeSD - la pédagogie et le concept "open". 
 ouverte
 ============
 
