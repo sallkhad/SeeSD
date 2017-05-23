@@ -38,7 +38,7 @@ Some of us have PhD and have a lot experience, while others are just starting.
 
 This is our leadership team [SeeSD](https://www.seesd.org/team).:runner::bowtie::runner:
 
-If you think you have are a leader, please join us, and let share skills and work together. 
+If you think you have are a leader, please join us, and let share skills and work together.:school_satchel::school_satchel: 
 
 This is our email, just so you know :email: SeeSD.Senegal@gmail.com. :email:
 
