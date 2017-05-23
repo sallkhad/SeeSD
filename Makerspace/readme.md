@@ -12,19 +12,24 @@ We believe anyone can become a STEM professional and an innovator.
 
 ### :confused: :unamused: What do you guys teach in the makerspace? :confused: :unamused:
 
-We have run hands-on workshops related to Biology, Chemistry, Physics, Math, The environment, Climate change, coding, electronics, 3D printing. 
+We have run hands-on workshops related to Biology, Chemistry, Physics, Math, The environment, Climate change, coding, electronics, 3D printing.:smirk: :+1:
 
-We are working on designing  more hands-on workshops (photography, drones, data mining and visualization, African Fractals). 
+We are working on designing  more hands-on workshops (photography, drones, data mining and visualization, African Fractals). :sunglasses:
 
-You are interesting in learning something about a specific field and/or help design curriculum on a specific field and share with underreprensented communities. We can help with that.
+If you are interested in learning something about a specific field and/or help design or share a STEM curriculum with underreprensented communities. We can help with that.:sunglasses::sunglasses::sunglasses::sunglasses:
 
-Hnn! 
+OK Hnn! :unamused:
 
-I am not a STEM professional or innovator, I don't know what you guys are talking about. 
+I am not a STEM professional or innovator, I don't know what you guys are talking about. :confused::confused:
+Well, just come and have fun learning with us then. Innovation comes with learning. :smiley: :stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes:
 
-If you have STEM skills to share, we are interested. Our workshops are fit to adapt to different background and vibes. Just help out or come in the makerspace to learn with us. No, pressure at all, we will learn together. With learning comes innovation. 
+Our workshops are fit to adapt to different background and vibes. :sunglasses::sunglasses::sunglasses:
 
-If you are already a STEM professional or an innovator just show up. We have co-working events to work on your own projects. We can work together and create curricula.
+If you have STEM skills to share :microscope: books: :telescope::wrench: :computer:, or want to help design currical we are interested! :simple_smile:
+ 
+If you are already a STEM professional or an innovator in Senegal, just show up. 
+
+We have co-working events to work on your own projects. 
 
 ### Wait who are you guys? 
 
