@@ -13,5 +13,5 @@ Coming soon.
 
 We are setting this up and will need more collaborators. 
 
-If you are a developer and can help, please email us SeeSDSenegal@gmail.com
+If you are a developer and can help,or would like to have more information please email us SeeSD.Senegal@gmail.com
 
