@@ -46,6 +46,9 @@ Temptative content :point_down:
     How to handle a group of kids?
     Professionalism
     Ethics and code of conduct
+    
+ ## Day 6
+    Workshops with children  
 
 :airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
 
@@ -91,5 +94,7 @@ Contenu formation :point_down:
 ## Jour 5
     La gestion de groupes
     Le professionnalisme.
-                  
+
+## Day 6
+    Atelier scientifique avec des enfants.      
                   
