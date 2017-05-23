@@ -10,7 +10,7 @@ We come together to do hands-on learning, share skills, ask questions, and creat
 
 We believe anyone can become a STEM professional and an innovator. 
 
-### :confused: :confused: What do you guys teach in the makerspace? :confused:
+### :confused: :unamused: What do you guys teach in the makerspace? :confused: :unamused:
 
 We have run hands-on workshops related to Biology, Chemistry, Physics, Math, The environment, Climate change, coding, electronics, 3D printing. 
 
