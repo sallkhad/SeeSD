@@ -25,24 +25,24 @@ Well, just come and have fun learning with us then. Innovation comes with learni
 
 Our workshops are fit to adapt to different background and vibes. :sunglasses::sunglasses::sunglasses:
 
-If you have STEM skills to share :microscope: books: :telescope::wrench: :computer:, or want to help design currical we are interested! :simple_smile:
+If you have STEM skills to share :microscope: books: :telescope::wrench: :computer::syringe:, or want to help design currical we are interested! :simple_smile:
  
 If you are already a STEM professional or an innovator in Senegal, just show up. 
 
 We have co-working events to work on your own projects. 
 
-### Wait who are you guys? 
+### :raised_hand: Wait, who are you guys? :smirk:
 
-We are mostly young people who want to make a change in Africa. We believe scientific literacy mixed with the culture of open can get us there. 
+We are mostly young people who want to make a change in Africa.:muscle::muscle::muscle: We believe scientific literacy :microscope: books: :telescope::wrench: :computer::syringe: mixed with the culture of open can get us there. 
 Some of us have PhD and have a lot experience, while others are just starting.
 
-This is our leadership team [SeeSD](https://www.seesd.org/team). We are looking for more leaders. 
+This is our leadership team [SeeSD](https://www.seesd.org/team).:runner::bowtie::runner:
 
-If you think you have are a leader, join us, and let share skills and work together. 
+If you think you have are a leader, please join us, and let share skills and work together. 
+
+This is our email, just so you know :email: SeeSD.Senegal@gmail.com. :email:
 
 Check out the CONTRIBUTING file or the page on the site for more details.
-
-If you are interested in joining, you can still email us SeeSD.Senegal@gmail.com. 
 
 Check out the Handbook (Coming soon Makerspace hand-book)
 
