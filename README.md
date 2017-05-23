@@ -1,4 +1,4 @@
-👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 Regarder en bas pour la version française :fr::fr: / Scroll down for french version/:fr: 
+👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_down:version française :fr::fr: / :point_down: french version/:fr::fr:
 
 :sparkles: [**Welcome to SeeSD!**](https://www.seesd.org) :sparkles:
 
