@@ -1,4 +1,4 @@
-👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 Regarder en bas pour la version française / Scroll down for french version/ 
+👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 Regarder en bas pour la version française :fr::fr: / Scroll down for french version/:fr: 
 
 :sparkles: [**Welcome to SeeSD!**](https://www.seesd.org) :sparkles:
 
@@ -33,7 +33,7 @@ If you want to contribute to any these projects, contact us at [SeeSD.Senegal@gm
 This is [roadmap.md] whatare planning to do for the year of 2016. 
 Check it out and let us know if you want to help 
 
-****************************************************
+:airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 
 
 :sparkles: [**Bienvenue à SeeSD!**](https://www.seesd.org/copy-of-home) :sparkles:
