@@ -28,7 +28,7 @@ At SeeSD, we are committed to fostering Science, Technology, Engineering, and Ma
 :newspaper: Contribute to creating our bimonthly newsletter 
 :relieved: Help us organize our first conference about science communication/Open Science
 
-If you want to contribute to any these projects, contact us at [SeeSD.Senegal@gmail.com]
+If you want to contribute to any these projects, contact us at :email: [SeeSD.Senegal@gmail.com] :email:
 
 This is [roadmap.md] whatare planning to do for the year of 2016. 
 Check it out and let us know if you want to help 
@@ -67,6 +67,6 @@ L’organisation d’un festival/conférence annuel pour promouvoir l’échange
 :newspaper: Contribute to creating our bimonthly newsletter 
 :relieved: Aidez nous à organiser le DefCo Dakar science festival et conférence 
 
-Si vous avez voulez contribuer ou avez des suggestions ou des remarques par rapport à notre projet, contactez-nous par email [SeeSD.Senegal@gmail.com].
+Si vous avez voulez contribuer ou avez des suggestions ou des remarques par rapport à notre projet, contactez-nous par email :email: [SeeSD.Senegal@gmail.com] :email:
 
 
