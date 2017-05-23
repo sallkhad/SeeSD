@@ -9,7 +9,7 @@ Welcome to SeeSD Volunteer training.
 We are currently designing a one week training session for our volunteers. 
 
 If you have curricula to share or something you believe will be a good add-up to the training, please contribute.
-:point_down: Temptative content :point_down:
+Temptative content :point_down:
 
 ## Day 1 
     What is STEM? importance, scientific method?
@@ -49,15 +49,14 @@ If you have curricula to share or something you believe will be a good add-up to
 
 :airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
 
-Formation des bénévoles SeeSD - la pédagogie et le concept "open". 
-ouverte
+Formation des bénévoles SeeSD - la pédagogie et le concept "open. 
 ============
 
 Bienvenue! Nous sommes actuellement entrain de concevoir le contenu de la formation des volontaires SeeSD.   
 
 Si vous avez des suggestions par rapport à notre formation ou si vous voulez contribuer à la conception, n'hésitez pas. 
 
-Contenu formation
+Contenu formation :point_down:
 ## Jour 1
     C'est quoi la science? Demarche scientifique, importance
     La science dans le monde 
