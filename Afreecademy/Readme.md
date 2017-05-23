@@ -1,5 +1,8 @@
 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_down:version française :fr::fr: / :point_down: french version/:fr::fr:
 
+
+![](https://cdn0.vox-cdn.com/thumbor/t7nbkV1BjrAO3k0FVN9WAWg6M2E=/2800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3397248/GIF3_1200x675_v2.0.gif)
+
 Afreecademy - African MOOC platform with free content available in local languages
 ============
 
@@ -20,6 +23,9 @@ If you are a :computer:developer:computer: and can help,or would like to have mo
 :airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::f:fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
 
 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼 :point_up_2:version anglaise :us::us:/ :point_up_2: English version/:us::us:
+
+
+![](https://cdn0.vox-cdn.com/thumbor/8m77shPmLjOFwQ2jGMg4bOk4eyE=/2800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3397278/GIF2_1200x675_v2.0.gif)
 
 Afreecademy - Formation en ligne à l'africaine ouverte à tous. Contenu disponible dans certaines langues africaines. :earth_africa::earth_africa: 
 
