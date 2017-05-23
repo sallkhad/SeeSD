@@ -1,9 +1,10 @@
 SeeSD Volunteer Training - for hands-on workhops and Open practices 
 ============
 
-Welcome to SeeSD Volunteer training. We are compiling information for our one week training session.  
+Welcome to SeeSD Volunteer training. We are currently designing a one week training session for our volunteers. 
 
-If you have curricular to share or something you believe will be a good add-up to the training. 
+If you have curricula to share or something you believe will be a good add-up to the training, please contribute.  
 
-Please, contribute. 
+Temptative training. 
+
 
