@@ -44,7 +44,7 @@ If you have curricula to share or something you believe will be a good add-up to
 
 :airplane::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::fr::airplane:
 
-Formation des bénévoles SeeSD - La pédagogie et le concept "d'open". 
+Formation des bénévoles SeeSD - La pédagogie et le concept "open". 
 ouverte
 ============
 
