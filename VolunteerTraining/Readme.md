@@ -8,9 +8,9 @@ Welcome to SeeSD Volunteer training.
 
 We are currently designing a one week training session for our volunteers. 
 
-If you have curricula to share or something you believe will be a good add-up to the training, please contribute.  
+If you have curricula to share or something you believe will be a good add-up to the training, please contribute.
+:point_down: Temptative content :point_down:
 
-#Temptative content
 ## Day 1 
     What is STEM? importance, scientific method?
     STEM  in the world?
