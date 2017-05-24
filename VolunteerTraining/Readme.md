@@ -60,6 +60,7 @@ Formation des bénévoles SeeSD - la pédagogie et le concept "open.
 ============
 
 Bienvenue! Nous sommes actuellement entrain de concevoir le contenu de la formation des volontaires SeeSD.   
+![](https://media.giphy.com/media/VVgRNcBKp64NO/giphy.gif)
 
 Si vous avez des suggestions par rapport à notre formation ou si vous voulez contribuer à la conception, n'hésitez pas. 
 
