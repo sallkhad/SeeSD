@@ -75,6 +75,7 @@ Contenu formation :point_down:
     + Comprendre les objectifs des animations scientifiques
     + Maitrisez la méthode scientifique
     + Être plus à l'aise avec la gestion de groupes
+    
     10h30-11h
     C'est quoi la science? (Définir juste avec un mot)
     Poser cette question aux volontaires et noter les réponses aux tableaux
