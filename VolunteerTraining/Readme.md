@@ -69,12 +69,12 @@ Contenu formation :point_down:
     10h-10h30
     Bienvenue à la formation SeeSD
     Se présenter et parler des différents objectifs de la formation 
-    + Comprendre la science et son histoire 
-    + Comprendre le concept de la science ouverte
-    + Comprendre le projet SeeSD
-    + Comprendre les objectifs des animations scientifiques
-    + Maitrisez la méthode scientifique
-    + Être plus à l'aise avec la gestion de groupes
+    Comprendre la science et son histoire 
+    Comprendre le concept de la science ouverte
+    Comprendre le projet SeeSD
+    Comprendre les objectifs des animations scientifiques
+    Maitrisez la méthode scientifique
+    Être plus à l'aise avec la gestion de groupes
     
     10h30-11h
     C'est quoi la science? (Définir juste avec un mot)
@@ -82,32 +82,41 @@ Contenu formation :point_down:
     Ils doivent à chaque fois expliquer pourquoi ils ont choisi ce mot
     Regarder définition en ligne (wikipedia, Larousse)
     Mot clés connaissance, savoir, méthode, les technologies
+    
     11h-11h30
     C’est quoi/qui un scientifique? (Qui est scientifique?)
-    Les guider, ils peuvent donner des exemples de scientifiques. 
-    Dire pourquoi ils pensent que c'est un scientifique. 
-    Faire ressortir le concept de recherche. 
+    Les guider, ils peuvent donner des exemples de scientifiques 
+    Dire pourquoi ils pensent que c'est un scientifique 
+    Faire ressortir le concept de recherche 
+    
     11h30-12h30
     C'est quoi la recherche? Comment est ce qu'elle se fait? Quelle est son but?
     Recherche basique vs appliquée?
+    
     12h00-12h30
     C'est quoi la méthode scientifique?
+    
     12h30-1h
     Quels sont les mots importants en science?
     Theorie, probabilité, hypothèse, Septicisme, consensus
+    
     1h-2h-Déjeuner
+    
     2h-2h30 
     La science dans les pays développés, comment est qu'elle se fait?
     Montrez exemple Etats Unis et la France
     Universités, Institut de recherches, Entreprises, musées
+    
     2h30-3h 
     La science dans les pays en voie de développement (se focaliser sur l'Afrique) 
     Montrez exemple Sénégal, Nigéria
     Universités, Insitut de recherches, Entreprises, musées
+    
     3h-3h30 Comment est ce que l'Afrique a accusé ce retard? Causes et conséquences
     La colonisation
     Le retard économique
     Les préjugés (vaccins, OGMs,rechauffement climatique, Ebola Evolution)
+    
     3h30-4h00 Est ce que l'Afrique a une culture scientifique même?
     Berceau de l'humanité
     Egypte ancienne
@@ -119,27 +128,37 @@ Contenu formation :point_down:
     
 ## Jour 2
     10h-10h30 Le programme du jour
+    
     10h30-11h Vos solutions
     Discutez comment c'est faisable? 
+    
     11h-11h30 Parlez du concept de la science ouverte. 
     Science ouverte, données ouvertes, éducation ouverte
+    
     11h30-12h Pourquoi j'ai introduit ces concepts
     C'est quoi l'interêt?
     Les problèmes associés?
+    
     12h-12h30 SeeSD, une solution 
     Introduire SeeSD 
     Challenges 
+    
     12h30-1h
     Discutez de SeeSD
+    
     1h-2h Déjeuner 
+    
     2h-2h30 SeeSD en détails
     ONGs/hybrid comment ça marche? (Fonctionnement, leadership)
+    
     2h30-3h SeeSD en détails
     Animations scientifiques
     Objectifs et vision 
     Makerspace montrez videos makerspace 
+    
     3h-3h30 Plateforme en ligne Afreecademy
     Montrez example plateforme en ligne edx, udemy, coursera, Fun MOOC open classroom
+    
     3h30-4h Defco 
     Festival, Conference 
     
